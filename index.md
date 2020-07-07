@@ -1,6 +1,6 @@
 ## Yilin Li
 
-Junior, Department of Statistics;
+Junior, Department of Statistics  
 Southern University of Science and Technology
 
 ### Markdown
