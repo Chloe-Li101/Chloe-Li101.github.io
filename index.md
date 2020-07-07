@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Yilin Li
 
 You can use the [editor on GitHub](https://github.com/Chloe-Li101/yilin-li.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
