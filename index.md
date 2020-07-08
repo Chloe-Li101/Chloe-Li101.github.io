@@ -1,4 +1,5 @@
-## Yilin Li   [personal image](\image.jpg)
+## Yilin Li   
+[personal image](\image.jpg)
 
 Junior, Department of Statistics  
 Southern University of Science and Technology
