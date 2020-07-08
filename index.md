@@ -1,5 +1,5 @@
 ## Yilin Li   
-  ![image](\image.jpg)
+ <img alt="personalimage" src="image.jpg" width="300" height="220">
 
 Junior, Department of Statistics  
 Southern University of Science and Technology
